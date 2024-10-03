@@ -3,8 +3,7 @@ Submission Proyek Analisis Data dengan Python pada Platform Dicoding
 
 # Bike Data Set Dashboard
 ## Links :
-- Streamlit Deploy App :
-- Data pada Google Drive :
+- Streamlit Deploy App : https://juc2uemh4e6ooknxcjikw3.streamlit.app/
 
 ## Setup Environment with VSCODE
 >Python version = 3.12.2
